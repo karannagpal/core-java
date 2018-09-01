@@ -1,0 +1,5 @@
+interface IB
+{
+	void area();
+
+}
