@@ -1,0 +1,29 @@
+AddCompany
+AddStudent
+
+AdminDashboard
+AdminLogin
+
+AllQuestions
+
+ChangeAdminPassword
+ChangeCompanyPassword
+ChangePassword - (change student password)
+
+CompanyDashboard
+CompanyLogin
+EditCompanyProfile
+EditProfile - (edit student profile)
+EligibleCompanies
+EligibleCompaniesList
+EligibleStudent
+EligibleStudentList
+MyConnection
+PlacementCell
+Question
+StudentDashboard
+StudentLogin
+TakeTest
+Test
+UpdateQuestion
+UploadQuestion
